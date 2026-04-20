@@ -1,0 +1,14 @@
+C:\Users\Suryadeep\.antigravity\projects\VRAMVacuum\bin\Debug\net8.0-windows\VRAMVacuum.exe
+C:\Users\Suryadeep\.antigravity\projects\VRAMVacuum\bin\Debug\net8.0-windows\VRAMVacuum.deps.json
+C:\Users\Suryadeep\.antigravity\projects\VRAMVacuum\bin\Debug\net8.0-windows\VRAMVacuum.runtimeconfig.json
+C:\Users\Suryadeep\.antigravity\projects\VRAMVacuum\bin\Debug\net8.0-windows\VRAMVacuum.dll
+C:\Users\Suryadeep\.antigravity\projects\VRAMVacuum\bin\Debug\net8.0-windows\VRAMVacuum.pdb
+C:\Users\Suryadeep\.antigravity\projects\VRAMVacuum\obj\Debug\net8.0-windows\VRAMVacuum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suryadeep\.antigravity\projects\VRAMVacuum\obj\Debug\net8.0-windows\VRAMVacuum.AssemblyInfoInputs.cache
+C:\Users\Suryadeep\.antigravity\projects\VRAMVacuum\obj\Debug\net8.0-windows\VRAMVacuum.AssemblyInfo.cs
+C:\Users\Suryadeep\.antigravity\projects\VRAMVacuum\obj\Debug\net8.0-windows\VRAMVacuum.csproj.CoreCompileInputs.cache
+C:\Users\Suryadeep\.antigravity\projects\VRAMVacuum\obj\Debug\net8.0-windows\VRAMVacuum.dll
+C:\Users\Suryadeep\.antigravity\projects\VRAMVacuum\obj\Debug\net8.0-windows\refint\VRAMVacuum.dll
+C:\Users\Suryadeep\.antigravity\projects\VRAMVacuum\obj\Debug\net8.0-windows\VRAMVacuum.pdb
+C:\Users\Suryadeep\.antigravity\projects\VRAMVacuum\obj\Debug\net8.0-windows\VRAMVacuum.genruntimeconfig.cache
+C:\Users\Suryadeep\.antigravity\projects\VRAMVacuum\obj\Debug\net8.0-windows\ref\VRAMVacuum.dll

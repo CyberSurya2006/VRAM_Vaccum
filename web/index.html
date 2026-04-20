@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VRAM Vacuum | Minimal. Ruthless. Instant.</title>
+    <meta name="description" content="Reclaim your GPU memory instantly. VRAM Vacuum is a zero-bloat utility that terminates background tasks to free up VRAM for what matters.">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <canvas id="vacuumCanvas"></canvas>
+    
+    <nav>
+        <div class="logo">VRAM<span>VACUUM</span></div>
+        <div class="nav-links">
+            <a href="#features">Features</a>
+            <a href="#how-it-works">How it Works</a>
+            <a href="https://github.com" class="btn-github">GitHub</a>
+        </div>
+    </nav>
+
+    <header class="hero">
+        <div class="container">
+            <div class="badge">Windows Utility</div>
+            <h1>Reclaim Your <span class="highlight">GPU Power</span></h1>
+            <p class="tagline">The panic button for your VRAM. Terminate memory-hungry background tasks with a single click.</p>
+            <div class="cta-group">
+                <a href="#" class="btn-primary">Download v1.0.0</a>
+                <a href="#features" class="btn-secondary">Learn More</a>
+            </div>
+        </div>
+    </header>
+
+    <section id="features" class="features">
+        <div class="container">
+            <div class="section-title">
+                <h2>Engineered for <span>Performance</span></h2>
+                <p>No bloat. No telemetry. Just raw efficiency.</p>
+            </div>
+            <div class="feature-grid">
+                <div class="feature-card">
+                    <div class="icon">⚡</div>
+                    <h3>Instant Vacuum</h3>
+                    <p>Kill non-essential browsers and background processes in milliseconds.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="icon">📥</div>
+                    <h3>System Tray Mode</h3>
+                    <p>Stays out of your way. Access the vacuum anytime from your taskbar.</p>
+                </div>
+                <div class="feature-card">
+                    <div class="icon">🛠️</div>
+                    <h3>Zero Installation</h3>
+                    <p>Portable executable. No registry clutter, no leftover files.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="how-it-works" class="how-it-works">
+        <div class="container">
+            <div class="split">
+                <div class="content">
+                    <h2>How it <span>Works</span></h2>
+                    <ul class="steps">
+                        <li>
+                            <span class="number">01</span>
+                            <div>
+                                <h4>Detection</h4>
+                                <p>Identifies high-impact background processes like Chrome, Discord, and Slack.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <span class="number">02</span>
+                            <div>
+                                <h4>Termination</h4>
+                                <p>Forcefully closes target processes to release GPU-bound memory buffers.</p>
+                            </div>
+                        </li>
+                        <li>
+                            <span class="number">03</span>
+                            <div>
+                                <h4>Optimization</h4>
+                                <p>Triggers Windows memory management to consolidate available VRAM.</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="visual">
+                    <div class="app-mockup">
+                        <div class="mockup-header">
+                            <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+                        </div>
+                        <div class="mockup-body">
+                            <div class="m-title">VRAM VACUUM</div>
+                            <div class="m-status">Ready to reclaim memory...</div>
+                            <div class="m-btn">VACUUM</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 VRAM Vacuum Project. Built for the Hackathon.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
